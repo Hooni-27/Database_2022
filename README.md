@@ -3,7 +3,7 @@
 ※ row : 가로, Table에서 하나의 개체를 나타냄
 ※ column : 세로, Table에서 하나의 속성을 나타냄
 
-Primary Key
+### Primary Key
  - table에서 하나의 row를 고유하게 식별할 수 있도록 해주는 column
  - 일반적으로 Table에는 primary key가 존재하는 것이 바람직
  - 종류
