@@ -15,3 +15,7 @@
  - NULL이 아니다
  - NULL : 값이 존재하지 않는 상태(NULL은 0이 아님)
  - primary key는 NN(NOT NULL)이어야 한다
+
+### Auto Increment(AI)
+ - 자동 증가
+ - 실제 속성을 가지지 않는 column(Surrogate Key)에 항상 유일한 값이 들어간다는 보장만 있는 경우, 대신 column 값을 넣어주는 역할 수행
