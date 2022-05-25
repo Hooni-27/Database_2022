@@ -14,4 +14,4 @@
 ### Not NULL(NN)
  - NULL이 아니다
  - NULL : 값이 존재하지 않는 상태(NULL은 0이 아님)
- - 
+ - primary key는 NN(NOT NULL)이어야 한다
