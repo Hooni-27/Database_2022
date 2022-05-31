@@ -1,6 +1,7 @@
 ## Database_2022
 
 ※ row : 가로, Table에서 하나의 개체를 나타냄
+
 ※ column : 세로, Table에서 하나의 속성을 나타냄
 
 ### Primary Key
